@@ -1,0 +1,16 @@
+{
+    "banner_books": [
+        {
+            "book_id": "book_001",
+            "cat_id": "1",
+            "cover": "https://xxx.com/book_001_cover.png",
+            "title": "玄幻：开局获得至尊骨"
+        },
+        {
+            "book_id": "book_002",
+            "cat_id": "1",
+            "cover": "https://xxx.com/book_002_cover.png",
+            "title": "言情：总裁的小娇妻"
+        }
+    ]
+}

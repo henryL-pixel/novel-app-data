@@ -1,10 +1,10 @@
 {
-    "bookId": "book_002",
+    "bookId": "book_006",
     "title": "Reborn Billionaire",
     "author": "Jack Lee",
     "cover": "https://img1.baidu.com/it/u=4251804838,1776939252&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=889",
     "intro": "After being betrayed and killed, a young man is reborn to take revenge and build his own business empire. This time, he will not make the same mistakes again.",
-    "category": "Urban",
+    "category": 3,
     "status": "ongoing",
     "lastChapter": 1,
     "updateTime": "2026-03-20",
