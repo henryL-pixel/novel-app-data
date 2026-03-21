@@ -1,10 +1,10 @@
 {
-    "bookId": "book_001",
+    "bookId": "book_007",
     "title": "My Werewolf Lover",
     "author": "Anna Stone",
     "cover": "https://gips2.baidu.com/it/u=2006338001,1145179700&fm=3074&app=3074&f=PNG?w=2048&h=2048",
     "intro": "A forbidden love story between a human girl and a mysterious werewolf. She never thought her life would change forever after a rainy night encounter.",
-    "category": "Romance",
+    "category": 4,
     "status": "ongoing",
     "lastChapter": 2,
     "updateTime": "2026-03-20",
