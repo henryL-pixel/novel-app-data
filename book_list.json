@@ -1,0 +1,20 @@
+[
+    {
+        "bookId": "book_001",
+        "title": "My Werewolf Lover",
+        "cover": "https://gips2.baidu.com/it/u=2006338001,1145179700&fm=3074&app=3074&f=PNG?w=2048&h=2048",
+        "author": "Anna Stone",
+        "category": "Romance",
+        "lastChapter": 2,
+        "updateTime": "2026-03-20"
+    },
+    {
+        "bookId": "book_002",
+        "title": "Reborn Billionaire",
+        "cover": "https://img1.baidu.com/it/u=4251804838,1776939252&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=889",
+        "author": "Jack Lee",
+        "category": "Urban",
+        "lastChapter": 1,
+        "updateTime": "2026-03-20"
+    }
+]
