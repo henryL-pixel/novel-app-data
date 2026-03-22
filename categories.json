@@ -2,19 +2,19 @@
     "categories": [
         {
             "cat_id": 1,
-            "name": "玄幻"
+            "name": "Fantasy"
         },
         {
             "cat_id": 2,
-            "name": "言情"
+            "name": "Romance"
         },
         {
             "cat_id": 3,
-            "name": "悬疑"
+            "name": "Mystery"
         },
         {
             "cat_id": 4,
-            "name": "科幻"
+            "name": "Sci-Fi"
         }
     ]
 }
