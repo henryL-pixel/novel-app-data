@@ -2,13 +2,13 @@
     "banner_books": [
         {
             "book_id": "book_001",
-            "cat_id": "1",
+            "cat_id": 1,
             "cover": "https://img2.baidu.com/it/u=3673279900,1705882179&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=1082",
             "title": ""
         },
         {
             "book_id": "book_002",
-            "cat_id": "1",
+            "cat_id": 1,
             "cover": "https://img0.baidu.com/it/u=1159015806,3900066905&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=889",
             "title": ""
         }
